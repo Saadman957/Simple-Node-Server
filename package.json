@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Saadman957/Simple-Node-Server/issues"
   },
-  "homepage": "https://github.com/Saadman957/Simple-Node-Server#readme"
+  "homepage": "https://github.com/Saadman957/Simple-Node-Server#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3"
+  }
 }
